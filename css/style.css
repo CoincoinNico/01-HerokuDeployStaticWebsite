@@ -1,0 +1,30 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	margin-top: 150px;
+	text-align: center;
+	color: white;
+}
+
+.title, .fa-bus {
+	color: grey;
+}
+
+img {
+	width: 500px;
+}
+
+.heading {
+	background: url(http://www.imcreator.com/wp-content/uploads/2013/09/6110974997_8b0dfa13a0_b.jpg) bottom no-repeat;
+	height: 500px;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.navbar-default {
+	background-color: rgba(0, 0, 0, 0.4);
+	border: none;
+}
